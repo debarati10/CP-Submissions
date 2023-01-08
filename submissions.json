@@ -1,4 +1,21 @@
 {
+  "CF188379476": {
+    "contest_id": 1760,
+    "language": "GNU C++17",
+    "path": "codeforces/1760/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Medium Number",
+    "problem_url": "https://codeforces.com/contest/1760/problem/A",
+    "submission_id": "CF188379476",
+    "submission_url": "https://codeforces.com/contest/1760/submission/188379476",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2023 09:43"
+  },
   "CF191724867": {
     "contest_id": 4,
     "language": "GNU C++17",
