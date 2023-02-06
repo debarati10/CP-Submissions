@@ -1,4 +1,22 @@
 {
+  "CF192419255": {
+    "contest_id": 919,
+    "language": "GNU C++17",
+    "path": "codeforces/919/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Substring",
+    "problem_url": "https://codeforces.com/contest/919/problem/D",
+    "submission_id": "CF192419255",
+    "submission_url": "https://codeforces.com/contest/919/submission/192419255",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Feb/06/2023 09:51"
+  },
   "CF192904037": {
     "contest_id": 1788,
     "language": "GNU C++17",
