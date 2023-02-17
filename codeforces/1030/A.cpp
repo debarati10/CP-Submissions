@@ -13,9 +13,8 @@ int main() {
         if(arr[i]==1)
         count++;
     }
-    if(count==0)
-    cout<<"EASY";
-    else
+    if(count!=0)
     cout<<"HARD";
-    
+    else
+    cout<<"EASY";
 }
