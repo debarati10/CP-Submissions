@@ -575,6 +575,24 @@
     ],
     "timestamp": "Feb/20/2023 10:15"
   },
+  "CF194513131": {
+    "contest_id": 63,
+    "language": "GNU C++17",
+    "path": "codeforces/63/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sinking Ship",
+    "problem_url": "https://codeforces.com/contest/63/problem/A",
+    "submission_id": "CF194513131",
+    "submission_url": "https://codeforces.com/contest/63/submission/194513131",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/22/2023 02:56"
+  },
   "CF194513837": {
     "contest_id": 194,
     "language": "GNU C++17",
