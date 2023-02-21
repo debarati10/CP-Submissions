@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-40 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++17](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Feb/22/2023 12:37 | 
-39 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++17](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/22/2023 12:14 | 
-38 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [GNU C++17](./codeforces/263/B.cpp) | `greedy` `implementation` `sortings` `*900` | Feb/22/2023 11:48 | 
-37 | [A - Valera and Plates](https://codeforces.com/contest/369/problem/A) | [GNU C++17](./codeforces/369/A.cpp) | `greedy` `implementation` `*900` | Feb/22/2023 11:22 | 
-36 | [A - Worms Evolution](https://codeforces.com/contest/31/problem/A) | [GNU C++17](./codeforces/31/A.cpp) | `implementation` `*1200` | Feb/22/2023 10:55 | 
-35 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [GNU C++17](./codeforces/486/A.cpp) | `implementation` `math` `*800` | Feb/22/2023 09:32 | 
-34 | [A - Sereja and Coat Rack](https://codeforces.com/contest/368/problem/A) | [GNU C++17](./codeforces/368/A.cpp) | `implementation` `*1000` | Feb/22/2023 03:46 | 
-33 | [A - Exams](https://codeforces.com/contest/194/problem/A) | [GNU C++17](./codeforces/194/A.cpp) | `implementation` `math` `*900` | Feb/22/2023 03:09 | 
-32 | [A - Sinking Ship](https://codeforces.com/contest/63/problem/A) | [GNU C++17](./codeforces/63/A.cpp) | `implementation` `sortings` `strings` `*900` | Feb/22/2023 02:56 | 
+41 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++17](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Feb/22/2023 12:37 | 
+40 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++17](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/22/2023 12:14 | 
+39 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [GNU C++17](./codeforces/263/B.cpp) | `greedy` `implementation` `sortings` `*900` | Feb/22/2023 11:48 | 
+38 | [A - Valera and Plates](https://codeforces.com/contest/369/problem/A) | [GNU C++17](./codeforces/369/A.cpp) | `greedy` `implementation` `*900` | Feb/22/2023 11:22 | 
+37 | [A - Worms Evolution](https://codeforces.com/contest/31/problem/A) | [GNU C++17](./codeforces/31/A.cpp) | `implementation` `*1200` | Feb/22/2023 10:55 | 
+36 | [A - Calculating Function](https://codeforces.com/contest/486/problem/A) | [GNU C++17](./codeforces/486/A.cpp) | `implementation` `math` `*800` | Feb/22/2023 09:32 | 
+35 | [A - Sereja and Coat Rack](https://codeforces.com/contest/368/problem/A) | [GNU C++17](./codeforces/368/A.cpp) | `implementation` `*1000` | Feb/22/2023 03:46 | 
+34 | [A - Exams](https://codeforces.com/contest/194/problem/A) | [GNU C++17](./codeforces/194/A.cpp) | `implementation` `math` `*900` | Feb/22/2023 03:09 | 
+33 | [A - Sinking Ship](https://codeforces.com/contest/63/problem/A) | [GNU C++17](./codeforces/63/A.cpp) | `implementation` `sortings` `strings` `*900` | Feb/22/2023 02:56 | 
+32 | [A - Drazil and Date](https://codeforces.com/contest/515/problem/A) | [GNU C++17](./codeforces/515/A.cpp) | `math` `*1000` | Feb/22/2023 02:44 | 
 31 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++17](./codeforces/1030/A.cpp) | `implementation` `*800` | Feb/20/2023 10:15 | 
 30 | [A - Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | [GNU C++17](./codeforces/785/A.cpp) | `implementation` `strings` `*800` | Feb/17/2023 11:36 | 
 29 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Feb/17/2023 11:29 | 
