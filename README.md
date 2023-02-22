@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-34 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++17](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Feb/22/2023 12:37 | 
-33 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++17](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/22/2023 12:14 | 
-32 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [GNU C++17](./codeforces/263/B.cpp) | `greedy` `implementation` `sortings` `*900` | Feb/22/2023 11:48 | 
+35 | [B - Lecture](https://codeforces.com/contest/499/problem/B) | [GNU C++17](./codeforces/499/B.cpp) | `implementation` `strings` `*1000` | Feb/22/2023 12:37 | 
+34 | [A - Game With Sticks](https://codeforces.com/contest/451/problem/A) | [GNU C++17](./codeforces/451/A.cpp) | `implementation` `*900` | Feb/22/2023 12:14 | 
+33 | [B - Squares](https://codeforces.com/contest/263/problem/B) | [GNU C++17](./codeforces/263/B.cpp) | `greedy` `implementation` `sortings` `*900` | Feb/22/2023 11:48 | 
+32 | [A - Valera and Plates](https://codeforces.com/contest/369/problem/A) | [GNU C++17](./codeforces/369/A.cpp) | `greedy` `implementation` `*900` | Feb/22/2023 11:22 | 
 31 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++17](./codeforces/1030/A.cpp) | `implementation` `*800` | Feb/20/2023 10:15 | 
 30 | [A - Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | [GNU C++17](./codeforces/785/A.cpp) | `implementation` `strings` `*800` | Feb/17/2023 11:36 | 
 29 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Feb/17/2023 11:29 | 
